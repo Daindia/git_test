@@ -10,4 +10,5 @@ I'm adding text:
     
     >>'one'
     >>'two'
+    >>'three'
     ...

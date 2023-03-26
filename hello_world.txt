@@ -1,0 +1,13 @@
+I'm adding text:
+    ['one', 'two', 'three', 'four'] #This is a list with four items in it, each item has an index number
+    ls = ['one', 'two', 'three', 'four']
+    display = ls[0]
+
+    print(display)
+    >>'one'
+    for i in ls:
+        print(i)
+    
+    >>'one'
+    >>'two'
+    ...
